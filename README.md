@@ -1,5 +1,5 @@
-## Hi there, I'm Srinivas Ganesan. 
-  - Look below for my personal projects and hmu if you want to collaborate on something interesting in neural nets! 👋
+## Hi there 👋, I'm Srinivas Ganesan. 
+  - Look below for my personal projects and hmu if you want to collaborate on something interesting in neural nets! 😄
 
 <!--
 **sganesa2/sganesa2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
